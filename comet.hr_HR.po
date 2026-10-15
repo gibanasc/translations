@@ -1725,7 +1725,7 @@ msgstr "Prijašnji zadatak"
 msgid "Before the job started, the Storage Vault's size was:"
 msgstr "Prije nego što je posao započeo, veličina Trezora za pohranu bila je:"
 
-#. Used by the search system to create custom searches. "[USERNAME] begins with [PREFIX]
+#. Used by the search system to create custom searches. "[USERNAME] begins with [PREFIX]"
 msgid "begins with"
 msgstr "počinje sa"
 
@@ -2436,7 +2436,7 @@ msgstr "Pravila kontejnera"
 msgid "Containers:"
 msgstr ""
 
-#. Used by the search system to create custom searches. "[USERNAME] contains [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] contains [SOMETHING]"
 msgid "contains"
 msgstr "sadrži"
 
@@ -3532,19 +3532,19 @@ msgstr ""
 msgid "Documents"
 msgstr "Dokumenti"
 
-#. Used by the search system to create custom searches. "[USERNAME] doesn't begin with [PREFIX]
+#. Used by the search system to create custom searches. "[USERNAME] doesn't begin with [PREFIX]"
 msgid "doesn't begin with"
 msgstr "ne počinje sa"
 
-#. Used by the search system to create custom searches. "[USERNAME] doesn't contain [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] doesn't contain [SOMETHING]"
 msgid "doesn't contain"
 msgstr "ne sadrži"
 
-#. Used by the search system to create custom searches. "[USERNAME] doesn't end with [SUFFIX]
+#. Used by the search system to create custom searches. "[USERNAME] doesn't end with [SUFFIX]"
 msgid "doesn't end with"
 msgstr "ne završava sa"
 
-#. Used by the search system to create custom searches. "[USERNAME] doesn't match regex [PARAMETER]
+#. Used by the search system to create custom searches. "[USERNAME] doesn't match regex [PARAMETER]"
 #. Definition of "Regex": This is a well-known industry term. There might be a well-known translation, or, it might be common to use the English term. https://en.wikipedia.org/wiki/Regular_expression
 msgid "doesn't match regex"
 msgstr "ne odgovara regex-u"
@@ -3928,7 +3928,7 @@ msgstr "Vrijeme Završetka"
 msgid "Ended"
 msgstr "Završeno"
 
-#. Used by the search system to create custom searches. "[USERNAME] ends with [SUFFIX]
+#. Used by the search system to create custom searches. "[USERNAME] ends with [SUFFIX]"
 msgid "ends with"
 msgstr "završava sa"
 
@@ -3993,7 +3993,7 @@ msgstr "Unesi naziv zaštićenog predmeta"
 msgid "Enter your six-digit code below"
 msgstr "Ispod unesite svoj šestocifreni kod"
 
-#. Used by the search system to create custom searches. "[USERNAME] equal [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] equal [SOMETHING]"
 msgid "equal"
 msgstr "jednako"
 
@@ -4895,11 +4895,11 @@ msgstr ""
 msgid "Granular restore to compressed archive file (zip / tar)"
 msgstr "Granularni povrat u komprimiranu arhivsku datoteku (zip / tar)."
 
-#. Used by the search system to create custom searches. "[FILE SIZE] greater than [SOMETHING]
+#. Used by the search system to create custom searches. "[FILE SIZE] greater than [SOMETHING]"
 msgid "greater"
 msgstr "veći"
 
-#. Used by the search system to create custom searches. "[USERNAME] greater or equal than [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] greater or equal than [SOMETHING]"
 msgid "greater or equal"
 msgstr "veći ili jednak"
 
@@ -5736,11 +5736,11 @@ msgstr "LDAPS"
 msgid "Leave this field blank to not encrypt the backup files."
 msgstr "Ostavite ovo polje prazno ukoliko ne želite enkriptirati backup datoteke."
 
-#. Used by the search system to create custom searches. "[FILE SIZE] less than [SOMETHING]
+#. Used by the search system to create custom searches. "[FILE SIZE] less than [SOMETHING]"
 msgid "less"
 msgstr "manje"
 
-#. Used by the search system to create custom searches. "[FILE SIZE] less or equal than [SOMETHING]
+#. Used by the search system to create custom searches. "[FILE SIZE] less or equal than [SOMETHING]"
 msgid "less or equal"
 msgstr "manje ili jednako"
 
@@ -6031,7 +6031,7 @@ msgstr "Master Aplikacijski Ključ"
 msgid "Master Key ID"
 msgstr "Master ID Ključ"
 
-#. Used by the search system to create custom searches. "[USERNAME] matches regex [PARAMETER]
+#. Used by the search system to create custom searches. "[USERNAME] matches regex [PARAMETER]"
 #. Definition of "Regex": This is a well-known industry term. There might be a well-known translation, or, it might be common to use the English term. https://en.wikipedia.org/wiki/Regular_expression
 msgid "matches regex"
 msgstr "podudara se sa regex"
@@ -6551,7 +6551,7 @@ msgstr "Sadržaj novosti..."
 msgid "Next"
 msgstr "Slijedeći"
 
-#. The time of a future event. "Next [runtime]: at 03:00 AM
+#. The time of a future event. "Next [runtime]: at 03:00 AM"
 #, qt-format
 msgid "Next %1"
 msgstr "Slijedeći %1"
@@ -6889,7 +6889,7 @@ msgstr ""
 msgid "Not currently running"
 msgstr "Trenutno nije pokrenut"
 
-#. Used by the search system to create custom searches. "[USERNAME] not equal [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] not equal [SOMETHING]"
 msgid "not equal"
 msgstr "nije jednak"
 
@@ -12220,5 +12220,4 @@ msgstr "Raspon bajtova s nultim punjenjem"
 #, qt-format
 msgid "[%1] Item %2 (%3) of %4 (%5)"
 msgstr "[%1] stavka %2 (%3) od %4 (%5)"
-
 

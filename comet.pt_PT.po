@@ -1725,7 +1725,7 @@ msgstr "Antes da tarefa"
 msgid "Before the job started, the Storage Vault's size was:"
 msgstr "Antes do início do trabalho, o tamanho do Cofre de Armazenamento era:"
 
-#. Used by the search system to create custom searches. "[USERNAME] begins with [PREFIX]
+#. Used by the search system to create custom searches. "[USERNAME] begins with [PREFIX]"
 msgid "begins with"
 msgstr "começa com"
 
@@ -2436,7 +2436,7 @@ msgstr "Política de recipiente"
 msgid "Containers:"
 msgstr ""
 
-#. Used by the search system to create custom searches. "[USERNAME] contains [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] contains [SOMETHING]"
 msgid "contains"
 msgstr "contém"
 
@@ -3532,19 +3532,19 @@ msgstr ""
 msgid "Documents"
 msgstr "Documentos"
 
-#. Used by the search system to create custom searches. "[USERNAME] doesn't begin with [PREFIX]
+#. Used by the search system to create custom searches. "[USERNAME] doesn't begin with [PREFIX]"
 msgid "doesn't begin with"
 msgstr "não começa com"
 
-#. Used by the search system to create custom searches. "[USERNAME] doesn't contain [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] doesn't contain [SOMETHING]"
 msgid "doesn't contain"
 msgstr "não contém"
 
-#. Used by the search system to create custom searches. "[USERNAME] doesn't end with [SUFFIX]
+#. Used by the search system to create custom searches. "[USERNAME] doesn't end with [SUFFIX]"
 msgid "doesn't end with"
 msgstr "não termina com"
 
-#. Used by the search system to create custom searches. "[USERNAME] doesn't match regex [PARAMETER]
+#. Used by the search system to create custom searches. "[USERNAME] doesn't match regex [PARAMETER]"
 #. Definition of "Regex": This is a well-known industry term. There might be a well-known translation, or, it might be common to use the English term. https://en.wikipedia.org/wiki/Regular_expression
 msgid "doesn't match regex"
 msgstr "não corresponde ao regex"
@@ -3928,7 +3928,7 @@ msgstr "Hora de fim"
 msgid "Ended"
 msgstr "Concluído"
 
-#. Used by the search system to create custom searches. "[USERNAME] ends with [SUFFIX]
+#. Used by the search system to create custom searches. "[USERNAME] ends with [SUFFIX]"
 msgid "ends with"
 msgstr "termina com"
 
@@ -3993,7 +3993,7 @@ msgstr "Insira o nome do item protegido"
 msgid "Enter your six-digit code below"
 msgstr "Insira o seu código de seis dígitos abaixo"
 
-#. Used by the search system to create custom searches. "[USERNAME] equal [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] equal [SOMETHING]"
 msgid "equal"
 msgstr "igual"
 
@@ -4895,11 +4895,11 @@ msgstr ""
 msgid "Granular restore to compressed archive file (zip / tar)"
 msgstr "Restauro granular para ficheiro de arquivo comprimido (zip / tar)"
 
-#. Used by the search system to create custom searches. "[FILE SIZE] greater than [SOMETHING]
+#. Used by the search system to create custom searches. "[FILE SIZE] greater than [SOMETHING]"
 msgid "greater"
 msgstr "maior"
 
-#. Used by the search system to create custom searches. "[USERNAME] greater or equal than [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] greater or equal than [SOMETHING]"
 msgid "greater or equal"
 msgstr "maior ou igual"
 
@@ -5736,11 +5736,11 @@ msgstr "LDAPS"
 msgid "Leave this field blank to not encrypt the backup files."
 msgstr "Deixar este campo em branco para não encriptar os ficheiros de backup."
 
-#. Used by the search system to create custom searches. "[FILE SIZE] less than [SOMETHING]
+#. Used by the search system to create custom searches. "[FILE SIZE] less than [SOMETHING]"
 msgid "less"
 msgstr "menor"
 
-#. Used by the search system to create custom searches. "[FILE SIZE] less or equal than [SOMETHING]
+#. Used by the search system to create custom searches. "[FILE SIZE] less or equal than [SOMETHING]"
 msgid "less or equal"
 msgstr "menor ou igual"
 
@@ -6031,7 +6031,7 @@ msgstr "Chave de Aplicação Mestra"
 msgid "Master Key ID"
 msgstr "ID de Chave Mestra"
 
-#. Used by the search system to create custom searches. "[USERNAME] matches regex [PARAMETER]
+#. Used by the search system to create custom searches. "[USERNAME] matches regex [PARAMETER]"
 #. Definition of "Regex": This is a well-known industry term. There might be a well-known translation, or, it might be common to use the English term. https://en.wikipedia.org/wiki/Regular_expression
 msgid "matches regex"
 msgstr "corresponde a regex"
@@ -6551,7 +6551,7 @@ msgstr "Conteúdo de notícia..."
 msgid "Next"
 msgstr "Próximo"
 
-#. The time of a future event. "Next [runtime]: at 03:00 AM
+#. The time of a future event. "Next [runtime]: at 03:00 AM"
 #, qt-format
 msgid "Next %1"
 msgstr "Próximo %1"
@@ -6889,7 +6889,7 @@ msgstr ""
 msgid "Not currently running"
 msgstr "Não está em execução no momento"
 
-#. Used by the search system to create custom searches. "[USERNAME] not equal [SOMETHING]
+#. Used by the search system to create custom searches. "[USERNAME] not equal [SOMETHING]"
 msgid "not equal"
 msgstr "não é igual"
 
@@ -12220,5 +12220,4 @@ msgstr "Intervalo de bytes a zeros"
 #, qt-format
 msgid "[%1] Item %2 (%3) of %4 (%5)"
 msgstr "[%1] item %2 (%3) de %4 (%5)"
-
 
